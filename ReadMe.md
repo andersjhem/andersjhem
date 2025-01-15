@@ -1,5 +1,5 @@
 # 💫 About Me:
-                            ### Hi there 👋 ###<br>                                     <br>                          My name is Anders Johansson<br><br><br>  🌱 I’m currently learning <br>****fullstack development****<br><br><br>* 🤝 I’m looking to collaborate on new projects
+                            ### Hi there 👋 ###<br>                                     <br> My name is Anders Johansson<br><br><br>  🌱 I’m currently learning <br>****fullstack development****<br><br><br>* 🤝 I’m looking to collaborate on new projects
 
 
 ## 🌐 Socials:
